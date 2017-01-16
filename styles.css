@@ -97,21 +97,8 @@ body {
   border-bottom: solid 1px rgba(240,219,187,1);
 }
 
-/* SECTION STYLES - fullPage.js
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-section {
-	text-align: center;
-  /*background: url('https://unsplash.it/1910/1221?image=626') no-repeat center / cover;*/
-}
-
-h2 {
-	text-transform: lowercase;
-	font-size: 4em;
-	margin-bottom: 20px;
-}
-
-h3 {
-	font-weight: 300;
-	font-size: 2.8em;
+.panel-default > .panel-heading {
+  color: #66510A;
+  background-color: rgba(240,219,187,1);
+  border-color: #ddd;
 }
